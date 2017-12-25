@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="▬ African Countries [AFR] ▬" tvg-logo="http://picon.space/africancountries.png" group-title="African Countries",▬ African Countries [AFR] ▬
+http://clientportal.link:8080/live/jradi/Z39y1B015/16543.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="2S TV SN" tvg-logo="http://picon.space/2stv.png" group-title="African Countries",2S TV SN
+http://clientportal.link:8080/live/jradi/Z39y1B015/13497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIT International NG" tvg-logo="http://picon.space/aitinternational.png" group-title="African Countries",AIT International NG
+http://clientportal.link:8080/live/jradi/Z39y1B015/13467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANN 7 ZA" tvg-logo="http://picon.space/ann7.png" group-title="African Countries",ANN 7 ZA
+http://clientportal.link:8080/live/jradi/Z39y1B015/13487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Africable TV ML" tvg-logo="http://picon.space/africabletv.png" group-title="African Countries",Africable TV ML
+http://clientportal.link:8080/live/jradi/Z39y1B015/13466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Africa 24 AFR" tvg-logo="http://picon.space/africa24.png" group-title="African Countries",Africa 24 AFR
+http://clientportal.link:8080/live/jradi/Z39y1B015/13498.m3u8
